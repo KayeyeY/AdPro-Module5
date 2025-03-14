@@ -32,6 +32,6 @@ Sejauh ini, saya belum mengalami ketidakkonsistenan antara hasil profiling Intel
 Memeriksa kembali konfigurasi di JMeter dan meninjau kembali hasil profiling di IntelliJ Profiler.
 
 ## TEST RESULT
-<img src="src/image/test_plan_1.png">
-<img src="src/image/test_plan_2.png">
-<img src="src/image/test_plan_3.png">
+<img src="src/main/image/test_plan_1.png">
+<img src="src/main/image/test_plan_2.png">
+<img src="src/main/image/test_plan_3.png">
